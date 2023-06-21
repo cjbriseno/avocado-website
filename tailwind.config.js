@@ -14,6 +14,11 @@ module.exports = {
       fontFamily: {
         'manrope': ['Manrope', 'sans-serif'],
       },
+      backgroundImage: (theme) => ({
+        pic2: "url('./images/pic2.png')",
+        pic3: "url('./images/pic3.png')",
+        pic4: "url('./images/pic4.png')",
+      }),
     },
   },
   plugins: [],
