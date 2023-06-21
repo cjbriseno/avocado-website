@@ -1,7 +1,7 @@
 {
   "name": "my-project",
   "version": "0.1.0",
-  "homepage":"https://cjbriseno.github.io/avocado-website",
+  "homepage": "https://cjbriseno.github.io/avocado-website/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.15",
