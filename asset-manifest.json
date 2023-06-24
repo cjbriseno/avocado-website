@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/avocado-website/static/css/main.53e5fcf3.css",
+    "main.js": "/avocado-website/static/js/main.0c55cc3b.js",
+    "static/media/pic2.png": "/avocado-website/static/media/pic2.41efb7f7bd589c780297.png",
+    "static/media/pic3.png": "/avocado-website/static/media/pic3.df5f408a5d3175503b79.png",
+    "static/media/pic5.png": "/avocado-website/static/media/pic5.b9670c0f8f875daaac49.png",
+    "static/media/pic1.png": "/avocado-website/static/media/pic1.d0b6f92bb7048abbd48c.png",
+    "index.html": "/avocado-website/index.html",
+    "main.53e5fcf3.css.map": "/avocado-website/static/css/main.53e5fcf3.css.map",
+    "main.0c55cc3b.js.map": "/avocado-website/static/js/main.0c55cc3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53e5fcf3.css",
+    "static/js/main.0c55cc3b.js"
+  ]
+}
